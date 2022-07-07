@@ -1,5 +1,6 @@
 
 ## Olá mundo, sou Brenno! 🇧🇷
+<img src="https://c.tenor.com/bwY3sMh9PFoAAAAC/valorant-sova-valorant.gif" />
 
 ### Tecnologias "favoritinhas"
 <a href="https://github.com/brennomeneses">
