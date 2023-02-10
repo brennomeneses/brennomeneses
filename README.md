@@ -1,6 +1,6 @@
 
 ## Olá mundo, sou Brenno! 🇧🇷
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennomeneses&hide=css&exclude_repo=mps-br-automata&layout=compact&theme=onedark" /><img height="140" src="https://c.tenor.com/bwY3sMh9PFoAAAAC/valorant-sova-valorant.gif" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennomeneses&hide=css,javascript&exclude_repo=mps-br-automata&layout=compact&theme=onedark" /><img height="140" src="https://c.tenor.com/bwY3sMh9PFoAAAAC/valorant-sova-valorant.gif" />
 
 ### Tecnologias "favoritinhas":
 <a href="https://github.com/brennomeneses">
