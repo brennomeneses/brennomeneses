@@ -8,6 +8,6 @@
             <img title="Csharp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
             <img title="C++" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
             <img title="ElectronJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-            <img title="Linux <3" height="50" src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_1280.png" />
+            <img title="Linux <3" height="50" src="https://preview.redd.it/w5gj2wkqhrc51.png?width=160&format=png&auto=webp&s=92b68f9d2b5696e2810d4d245e9c754adcb1715e" />
 </a>
 <img height="300" src="https://i.redd.it/pwh2q41s1wc21.gif" />
